@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 90" role="img" aria-labelledby="title">
+  <title id="title">Vivienda Murcia</title>
+  <defs>
+    <linearGradient id="checkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#55C27A" />
+      <stop offset="100%" stop-color="#3B9D57" />
+    </linearGradient>
+  </defs>
+  <path
+    fill="#8B1D33"
+    d="M0 12h19l17 28 17-28h19v66h-19V50l-17 25-17-25v28H0V12z"
+  />
+  <path
+    fill="url(#checkGradient)"
+    d="M13 44l16 18 27-34h18l-45 57L0 52l13-8z"
+  />
+  <text
+    x="98"
+    y="32"
+    font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif"
+    font-size="26"
+    font-weight="700"
+    letter-spacing="2.4"
+    fill="#8B1D33"
+  >
+    VIVIENDA
+  </text>
+  <text
+    x="98"
+    y="67"
+    font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif"
+    font-size="26"
+    font-weight="700"
+    letter-spacing="2.4"
+    fill="#8B1D33"
+  >
+    MURCIA
+  </text>
+</svg>
+
